@@ -1421,6 +1421,8 @@ header .logo a {
 	top: 0;
 	left: 0;
 	width: 100%;
+	background: #1f1f1f;
+	opacity: 0.85;
 	height: 100%;
 }
 
